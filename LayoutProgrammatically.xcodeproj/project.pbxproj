@@ -12,6 +12,7 @@
 		20F8E6B51FE22B7A00C0EDDD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20F8E6B31FE22B7A00C0EDDD /* Main.storyboard */; };
 		20F8E6B71FE22B7A00C0EDDD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20F8E6B61FE22B7A00C0EDDD /* Assets.xcassets */; };
 		20F8E6BA1FE22B7A00C0EDDD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20F8E6B81FE22B7A00C0EDDD /* LaunchScreen.storyboard */; };
+		20F8E6C21FE22FE800C0EDDD /* Programmar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F8E6C11FE22FE800C0EDDD /* Programmar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		20F8E6B61FE22B7A00C0EDDD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		20F8E6B91FE22B7A00C0EDDD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		20F8E6BB1FE22B7A00C0EDDD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		20F8E6C11FE22FE800C0EDDD /* Programmar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Programmar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				20F8E6AF1FE22B7A00C0EDDD /* AppDelegate.swift */,
 				20F8E6B11FE22B7A00C0EDDD /* ViewController.swift */,
+				20F8E6C11FE22FE800C0EDDD /* Programmar.swift */,
 				20F8E6B31FE22B7A00C0EDDD /* Main.storyboard */,
 				20F8E6B61FE22B7A00C0EDDD /* Assets.xcassets */,
 				20F8E6B81FE22B7A00C0EDDD /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				20F8E6B21FE22B7A00C0EDDD /* ViewController.swift in Sources */,
 				20F8E6B01FE22B7A00C0EDDD /* AppDelegate.swift in Sources */,
+				20F8E6C21FE22FE800C0EDDD /* Programmar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
